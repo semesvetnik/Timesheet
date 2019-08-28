@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet.Model.Tests\bin\Debug\netcoreapp1.1\Timesheet.Model.Tests.deps.json
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet.Model.Tests\bin\Debug\netcoreapp1.1\Timesheet.Model.Tests.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet.Model.Tests\bin\Debug\netcoreapp1.1\Timesheet.Model.Tests.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet.Model.Tests\obj\Debug\netcoreapp1.1\Timesheet.Model.Tests.AssemblyInfo.cs

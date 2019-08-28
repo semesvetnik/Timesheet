@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet\bin\Debug\netcoreapp1.1\TimesheetProject.deps.json
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet\bin\Debug\netcoreapp1.1\TimesheetProject.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet\bin\Debug\netcoreapp1.1\TimesheetProject.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet\obj\Debug\netcoreapp1.1\TimesheetProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Timesheet\Timesheet\obj\Debug\netcoreapp1.1\TimesheetProject.AssemblyInfo.cs
